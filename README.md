@@ -33,6 +33,6 @@
 
 <br clear="both">
 
-<img src="https://www.bing.com/images/search?view=detailv2&form=SBIHVR&iss=sbi&q=imgurl:https%3A%2F%2Fprofile-readme-generator.com%2Fassets%2Fsnake.svg&pageurl=https%3A%2F%2Fprofile-readme-generator.com%2F&pagetl=Profile+Readme+Generator&imgalt=An+animation+of+snake+eating+the+github+user+contribuitions+(like+snake+game)&imgsz=590x129&selectedindex=0&id=https%3A%2F%2Fprofile-readme-generator.com%2Fassets%2Fsnake.svg&mediaurl=https%3A%2F%2Fprofile-readme-generator.com%2Fassets%2Fsnake.svg&exph=0&expw=0&vt=2&sim=11" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
