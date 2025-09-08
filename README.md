@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ocliasa, Niño Rollane from Cebu City</h2>
+<h2 align="left">Hi 👋! My name is Ninzo from Cebu City</h2>
 
 ###
 
